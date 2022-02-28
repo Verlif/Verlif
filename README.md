@@ -19,6 +19,6 @@
 
 ------
 
-这里是有 [Record](https://github.com/Verlif/records) ，Verlif的一些记录。
+这里是有 [Record](https://verlif.top/records/) ，Verlif的一些记录。
 
-由 [NoHtml](https://github.com/Verlif/NoHtml) 生成。
+此文档结构由 [NoHtml](https://github.com/Verlif/NoHtml) 生成。
