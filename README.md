@@ -14,7 +14,7 @@
 
 最近Coding：
 
-* [just-data](https://github.com/Verlif/just-data)
+* [西米的梦境师计划](https://github.com/Verlif/sim-life-of-dream)
 
 ------
 
