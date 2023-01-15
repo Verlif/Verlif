@@ -2,9 +2,7 @@
 
 这里是Verlif，一个正在学习的开发者。 
 
-* 喜欢:computer:Coding，但不喜欢Daily
-* 喜欢:hammer:创造，但不喜欢改造
-* 喜欢:book:买书，但不喜欢读书
+热衷于写一些无聊的代码。
 
 ------
 
@@ -14,7 +12,7 @@
 
 最近Coding：
 
-* [西米的梦境师计划](https://github.com/Verlif/sim-life-of-dream)
+* ???
 
 ------
 
