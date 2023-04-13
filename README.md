@@ -16,6 +16,12 @@
 
 * 一些有意思的东西，暂未公开
 
+最近工作：整理或重构部分项目，包括以下：
+
+- [X] [socket-core](https://github.com/Verlif/socket-core) : 已由 [socket-point](https://github.com/Verlif/socket-point)取代
+- [X] [just-simmand](https://github.com/Verlif/just-simmand) : 完成重构
+- [ ] [NoHtml](https://github.com/Verlif/NoHtml) 
+
 ------
 
 这里是有 [Record](https://verlif.top/records/) ，Verlif的一些记录。
