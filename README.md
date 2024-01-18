@@ -25,6 +25,4 @@
 
 ------
 
-这里是有 [Record](https://verlif.top/records/) ，Verlif的一些记录。
-
-此文档结构由 [NoHtml](https://github.com/Verlif/NoHtml) 生成。
+这里是有 [Verlif的小站](https://verlif.top) ，Verlif的一些记录。
