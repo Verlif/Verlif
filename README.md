@@ -12,17 +12,4 @@
 
 您可以在我的地下室中找到我的较为完整的项目或是工具。
 
-最近Coding：
-
-* 一些有意思的东西，暂未公开
-
-最近工作：整理或重构部分项目，包括以下：
-
-- [X] [socket-core](https://github.com/Verlif/socket-core) : 结果：已由 [socket-point](https://github.com/Verlif/socket-point) 取代
-- [X] [just-simmand](https://github.com/Verlif/just-simmand) : 结果：完善指令匹配机制，加强指令参数匹配机制，自定义指令参数解析
-- [ ] [NoHtml](https://github.com/Verlif/NoHtml) : 目的：支持指令方式构建，完善文件日期同步
-- [ ] [sim-life-of-dream](https://github.com/Verlif/sim-life-of-dream)：目的：更简单的构建，更拓展的功能
-
-------
-
 这里是有 [Verlif的小站](https://verlif.top) ，Verlif的一些记录。
